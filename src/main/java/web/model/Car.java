@@ -1,6 +1,7 @@
 package web.model;
 
 public class Car {
+
     private int id;
     private String name;
     private String color;
